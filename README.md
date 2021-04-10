@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-[![Farmer.Chillax's github stats](https://github-readme-stats.vercel.app/api?username=Farmer-chong)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🔭 I’m an undergraduate student in Chinia.
 - 🌱 I’m currently learning Go / C++ / Data Struct.
 - ✍️ [Blogger](https://blog.farmer233.top)
 - 🤔 [My Gitee](https://gitee.com/Farmer-chong)
+
+
+[![Farmer.Chillax's github stats](https://github-readme-stats.vercel.app/api?username=Farmer-chong)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
