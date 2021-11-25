@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m an undergraduate student in China.
-- 🌱 I’m currently learning Go / ~~C++~~ / Data Struct.
+- 🌱 I’m currently learning Go / ~~C++~~ / Data Struct / Rust.
 - ✍️ [Blogger](https://blog.farmer233.top)
 - 🤔 [My Gitee](https://gitee.com/Farmer-chong)
 
