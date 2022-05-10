@@ -6,9 +6,9 @@
 - 🤔 [My Gitee](https://gitee.com/Farmer-chong)
 
 
-[![Farmer.Chillax's github stats](https://github-readme-stats.vercel.app/api?username=Farmer-chong)](https://github.com/anuraghazra/github-readme-stats)
+[![Farmer.Chillax's github stats](https://github-readme-stats.vercel.app/api?username=FarmerChillax)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farmer-chong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarmerChillax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
