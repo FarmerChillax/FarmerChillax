@@ -12,6 +12,7 @@
 
 <p>
   <a href="https://wakatime.com/@Farmer">
+    <picture>
         <!--START_SECTION:waka-->
             ```text
             Go                17 hrs 44 mins  ██████████████▒░░░░░░░░░░   57.79 %
@@ -20,6 +21,7 @@
             Other             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
             ```
         <!--END_SECTION:waka-->
+    </picture>
   </a>
 </p>
 
