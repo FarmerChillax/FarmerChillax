@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarmerChillax&layout=compact&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
-  <a href="https://wakatime.com/@JingBh">
+  <a href="https://wakatime.com/@Farmer">
         <!--START_SECTION:waka-->
 ```text
 Go                17 hrs 44 mins  ██████████████▒░░░░░░░░░░   57.79 %
