@@ -13,7 +13,15 @@
 <p>
   <a href="https://wakatime.com/@Farmer">
         <!--START_SECTION:waka-->
-        <!--END_SECTION:waka-->
+
+```text
+Go                17 hrs 44 mins  ██████████████▒░░░░░░░░░░   57.79 %
+Python            9 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   29.43 %
+Protocol Buffer   2 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+Other             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+```
+
+<!--END_SECTION:waka-->
   </a>
 </p>
 
