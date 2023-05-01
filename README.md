@@ -15,11 +15,7 @@
         <!--START_SECTION:waka-->
 
 ```text
-Go                18 hrs 8 mins   ███████████████████▓░░░░░   79.33 %
-Protocol Buffer   1 hr 59 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-YAML              45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-TypeScript        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Other             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
