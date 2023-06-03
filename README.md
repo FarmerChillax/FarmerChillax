@@ -14,12 +14,12 @@
   <a href="https://wakatime.com/@Farmer">
         <!--START_SECTION:waka-->
 
-```text
-Go                28 hrs 8 mins   ███████████████████░░░░░░   75.61 %
-Markdown          4 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-Python            1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Other             47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Protocol Buffer   41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+```txt
+Go                25 hrs 53 mins  █████████████████▒░░░░░░░   69.62 %
+Markdown          4 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+Python            2 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+Other             47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Protocol Buffer   40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
