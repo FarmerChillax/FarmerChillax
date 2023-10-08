@@ -10,18 +10,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarmerChillax&layout=compact&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>
-  <a href="https://wakatime.com/@Farmer">
-        <!--START_SECTION:waka-->
 
-```txt
-Go    29 mins         ████████████████████████▓   99.27 %
-Git   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-```
+<a href="https://wakatime.com/@Farmer"> </a>
+          <!--START_SECTION:waka-->  
+          <!--END_SECTION:waka-->
 
-<!--END_SECTION:waka-->
-  </a>
-</p>
+
 
 <!--
 **Farmer-chong/Farmer-chong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
