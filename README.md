@@ -12,8 +12,17 @@
 
 
 <a href="https://wakatime.com/@Farmer"> </a>
-          <!--START_SECTION:waka-->  
-          <!--END_SECTION:waka-->
+          <!--START_SECTION:waka-->
+
+```txt
+Go               3 hrs 22 mins   ████████████████████████▒   96.91 %
+C                5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Git              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Ezhil            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
+<!--END_SECTION:waka-->
 
 
 
