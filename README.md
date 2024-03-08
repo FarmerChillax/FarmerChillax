@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m an undergraduate student in China.
-- 🌱 I’m currently learning Kubernetes / Go / ~~C++~~ / Data Struct / Rust.
+- 🌱 I’m currently learning Kubernetes / TDD / Rust.
 - ✍️ [Blogger](https://blog.farmer233.top)
 - 🤔 [My Gitee](https://gitee.com/Farmer-chong)
 
