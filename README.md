@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on XPeng
 - 🌱 I’m currently learning Kubernetes / TDD / Rust.
 - ✍️ [Blogger](https://blog.farmer233.top)
-- 🤔 [My Gitee](https://gitee.com/Farmer-chong)
+<!-- - 🤔 [My Gitee](https://gitee.com/Farmer-chong) -->
 
 
 [![Farmer.Chillax's github stats](https://github-readme-stats.vercel.app/api?username=FarmerChillax)](https://github.com/anuraghazra/github-readme-stats)
